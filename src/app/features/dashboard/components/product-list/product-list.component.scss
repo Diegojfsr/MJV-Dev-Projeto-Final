@@ -1,0 +1,22 @@
+
+.products-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+
+.search {
+    
+    padding-left: 10px;
+    input {
+        height: 30px;
+        width: 350px;
+        font-size: 16px;
+    }
+}
+
